@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datasets
+Hand_Gesture_Recognition/leapGestRecog/
+Dog_Cat_SVM/PetImages/
+
+# Models
+*.keras
+*.h5
+
+# VS Code
+.vscode/
